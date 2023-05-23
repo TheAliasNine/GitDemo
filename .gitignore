@@ -1,0 +1,12 @@
+# User configuration files
+*.user
+*.filters
+
+# Tool generated files
+.vs/    
+
+# Build artifacts
+x64/
+
+Debug/
+Release
